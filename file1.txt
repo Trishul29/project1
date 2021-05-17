@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+hello
+line entered using master branch
+=======
+hello 
+i am fine
+>>>>>>> new
