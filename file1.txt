@@ -5,3 +5,5 @@ line entered using master branch
 hello 
 i am fine
 >>>>>>> new
+some more line
+adding newone
